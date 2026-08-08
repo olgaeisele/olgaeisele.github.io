@@ -6,10 +6,7 @@ title: "Olga Eisele"
 # Dr. Olga Eisele
 
 #### Assistant Professor  
-[Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/?cb)
-Program Group: [Communication, Organizations and Society](http://www.corpcomm.nl/)
-
-#### Email: o.eisele [at] uva.nl
+Email: o.eisele [at] uva.nl
 
 ---
 
