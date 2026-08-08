@@ -5,13 +5,6 @@ permalink: /publications/
 ---
 
 # Publications
----
-layout: default
-title: Publications
-permalink: /publications/
----
-
-# Publications 
 
 ## Peer-reviewed journal articles
 
