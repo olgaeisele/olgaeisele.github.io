@@ -1,7 +1,68 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+/* Desktop: 1/4 sidebar and 3/4 content */
+@media screen and (min-width: 801px) {
+  .wrapper {
+    max-width: 1200px;
+    width: 92%;
+    margin: 0 auto;
+
+    display: flex;
+    align-items: flex-start;
+    gap: 4%;
+  }
+
+  .wrapper > header {
+    width: 24%;
+    padding-right: 0;
+    float: none;
+    position: sticky;
+    top: 2rem;
+    align-self: flex-start;
+  }
+
+  .wrapper > section {
+    width: 72%;
+    margin: 0;
+    border: 0;
+    float: none;
+    padding: 0 0 3rem;
+  }
+
+  .wrapper > header footer {
+    width: auto;
+    margin-top: 2rem;
+    float: none;
+    position: static;
+  }
+}
+
+/* Prevent oversized profile images in the sidebar */
+header img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobile: sidebar above the page content */
+@media screen and (max-width: 800px) {
+  .wrapper {
+    display: block;
+    width: auto;
+    margin: 0 1.5rem;
+  }
+
+  header,
+  section {
+    width: auto;
+    padding-right: 0;
+    position: static;
+  }
+
+  header {
+    margin-bottom: 2rem;
+  }
+}
 
 /* Wider overall page */
 .wrapper {
