@@ -14,14 +14,12 @@ Email: o.eisele [at] uva.nl
 
 I am an Assistant Professor at the [Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/?cb) in the Program Group [Communication, Organizations and Society](http://www.corpcomm.nl/). I currently also serve as project coordinator in the infrastructure project [Twi-XL](https://twi-xl.humanities.uva.nl/).
 
-My research focuses on the political (crisis) communication of different types of organizations, with an emphasis on the European Union. My work also addresses the societal impact of information and communication technologies and mostly builds on (computational) content analysis.
-
 ---
 
 ## Research interests
 
 **1.** Political (crisis) communication of different types of organizations with a focus on the European Union  
-**2.** The societal impact of Information and Communication Technologies   
+**2.** The societal impact and communication about//with//via Information and Communication Technologies   
 **3.** (Automated) content analysis  
 
 
