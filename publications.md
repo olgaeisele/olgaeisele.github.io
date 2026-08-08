@@ -89,5 +89,4 @@ Cinalli, M., Trenz, H.-J., Brändle, V. K., **Eisele, O.**, & Lahusen, C. (2021)
 
 **2.** **Eisele, O.**, Heidenreich, T., & Boomgaarden, H. G. (2022). [x-pr: A dataset of 12 years of executives' press releases](https://doi.org/10.11587/MUDDDT). Vienna: Austrian Social Science Data Archive (AUSSDA).
 
-**1.** Lahusen, C., Cinalli, M., Trenz, H.-J., **Eisele, O.**, & Brändle, V. K. (2021). [TransSOL – Transnational solidarity and collective identities in the public sphere](https://doi.org/10.7802/2356). Datasets. Mannheim: GESIS – SowiDataNet | datorium.
-
+**1.** Lahusen, C., Cinalli, M., Trenz, H.-J., **Eisele, O.**, & Brändle, V. K. (2021). [TransSOL – Transnational solidarity and collective identities in the public sphere](https://doi.org/10.7802/2356). Datasets. Mannheim: GESIS – SowiDataNet \| datorium.
