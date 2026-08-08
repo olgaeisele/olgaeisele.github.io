@@ -20,9 +20,9 @@ My research focuses on the political (crisis) communication of different types o
 
 ## Research interests
 
-**1.** Political (crisis) communication of different types of organizations with a focus on the European Union
-**2.** The societal impact of Information and Communication Technologies
-**3.** (Automated) content analysis
+**1.** Political (crisis) communication of different types of organizations with a focus on the European Union  
+**2.** The societal impact of Information and Communication Technologies   
+**3.** (Automated) content analysis  
 
 
 ---
