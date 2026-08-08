@@ -20,10 +20,10 @@ My research focuses on the political (crisis) communication of different types o
 
 ## Research interests
 
-- Political and crisis communication by organizations (especially EU institutions)
-- Legitimation processes in European Union politics
-- Societal impact of information and communication technologies
-- Computational methods and automated text analysis
+**1.** Political (crisis) communication of different types of organizations with a focus on the European Union
+**2.** The societal impact of Information and Communication Technologies
+**3.** (Automated) content analysis
+
 
 ---
 
