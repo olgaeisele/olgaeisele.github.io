@@ -2,7 +2,6 @@
 title: "Olga Eisele"
 ---
 
-[Research](/research/) · [Teaching](/teaching/) · [Publications](/publications/)
 
 # dr. Olga Eisele
 
