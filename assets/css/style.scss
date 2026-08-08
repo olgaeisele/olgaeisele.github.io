@@ -146,3 +146,8 @@ header img {
   color: #222;
   font-weight: 700;
 }
+
+/* Restore the original sans-serif font used by jekyll-theme-minimal */
+body {
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
