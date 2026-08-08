@@ -11,7 +11,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+# Publications 
 
 ## Peer-reviewed journal articles
 
