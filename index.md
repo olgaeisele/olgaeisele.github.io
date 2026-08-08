@@ -55,7 +55,7 @@ You can also find more information and updates here:
 
 ## Contact
 
-Olga Eisele  
+#### Olga Eisele  
 Amsterdam School of Communication Research (ASCoR)  
 University of Amsterdam  
 
