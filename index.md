@@ -3,13 +3,13 @@ title: "Olga Eisele"
 ---
 
 
-# dr. Olga Eisele
+# Dr. Olga Eisele
 
 #### Assistant Professor  
-Amsterdam School of Communication Research (ASCoR), University of Amsterdam  
-Program Group: Communication, Organizations and Society  
+[Amsterdam School of Communication Research (ASCoR)](https://ascor.uva.nl/?cb)
+Program Group: [Communication, Organizations and Society](http://www.corpcomm.nl/)
 
-Email: o.eisele [at] uva.nl
+#### Email: o.eisele [at] uva.nl
 
 ---
 
@@ -43,11 +43,10 @@ My research focuses on the political (crisis) communication of different types o
 
 My full CV, including a complete list of publications, is available here:
 
-- [Full CV (Google Docs)](https://docs.google.com/document/d/16QI9j1Yostdm_jg42ftUvMYHxojsJZ3M/edit?usp=sharing&ouid=117766768513075494704&rtpof=true&sd=true)
+- [Full CV](https://docs.google.com/document/d/16QI9j1Yostdm_jg42ftUvMYHxojsJZ3M/edit?usp=sharing&ouid=117766768513075494704&rtpof=true&sd=true)
 
 You can also find more information and updates here:
 
-- BlueSky: [https://bsky.app/profile/olgaeisele.bsky.social](https://bsky.app/profile/olgaeisele.bsky.social)  
 - LinkedIn: [https://www.linkedin.com/in/olga-eisele-9b75b6266/](https://www.linkedin.com/in/olga-eisele-9b75b6266/)  
 - ResearchGate: [https://www.researchgate.net/profile/Olga-Eisele-2/](https://www.researchgate.net/profile/Olga-Eisele-2/)
 
@@ -57,6 +56,7 @@ You can also find more information and updates here:
 
 #### Olga Eisele  
 Amsterdam School of Communication Research (ASCoR)  
-University of Amsterdam  
+University of Amsterdam
+The Netherlands
 
 Email: o.eisele [at] uva.nl
