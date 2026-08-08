@@ -19,7 +19,7 @@ I am an Assistant Professor at the [Amsterdam School of Communication Research (
 ## Research interests
 
 **1.** Political (crisis) communication of different types of organizations with a focus on the European Union  
-**2.** The societal impact and communication about//with//via Information and Communication Technologies   
+**2.** The societal impact and communication about/with/via Information and Communication Technologies   
 **3.** (Automated) content analysis  
 
 
