@@ -9,7 +9,7 @@ title: "Olga Eisele"
 Amsterdam School of Communication Research (ASCoR), University of Amsterdam  
 Program Group: Communication, Organizations and Society  
 
-Email: o.eisele@uva.nl  
+Email: o.eisele [at] uva.nl
 
 ---
 
@@ -59,4 +59,4 @@ Olga Eisele
 Amsterdam School of Communication Research (ASCoR)  
 University of Amsterdam  
 
-Email: o.eisele@uva.nl  
+Email: o.eisele [at] uva.nl
