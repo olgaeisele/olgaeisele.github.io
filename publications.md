@@ -67,3 +67,27 @@ permalink: /publications/
 **2.** Eisele, O. (2017). [Complementing, competing, or co-operating? Exploring newspapers’ portrayals of the European Parliament and national parliaments in EU affairs.](https://doi.org/10.1080/07036337.2017.1281262) *Journal of European Integration, 39*(4), 435–451.
 
 **1.** Auel, K., Eisele, O., & Kinski, L. (2016). [From constraining to catalysing dissensus? The impact of political contestation on the parliamentary communication of EU affairs.](https://doi.org/10.1057/cep.2015.38) *Comparative European Politics, 14*(2), 154–176.
+
+
+## Book Sections
+
+**3.** Eisele, O., & Heidenreich, T. (2025). [European Union](https://www.researchgate.net/publication/384012832_European_Union). In A. Nai, M. Grömping, & D. Wirz (Eds.), *Elgar Encyclopaedia of Political Communication*. Edward Elgar Publishing. Preprint available.
+
+**2.** Cinalli, M., Eisele, O., Brändle, V. K., & Trenz, H.-J. (2020). [Solidarity contestation in the public domain during the ‘refugee crisis’](https://doi.org/10.4337/9781789909500.00011). In C. Lahusen (Ed.), *Citizens’ solidarity in Europe: Civic engagement and public discourse in times of crises* (pp. 120–148). Edward Elgar.
+
+**1.** Trenz, H.-J., Brändle, V. K., Cinalli, M., & Eisele, O. (2020). [Taking voice and taking sides: The role of social media commenting in solidarity contestation](https://doi.org/10.4337/9781789909500.00012). In C. Lahusen (Ed.), *Citizens’ solidarity in Europe: Civic engagement and public discourse in times of crises* (pp. 149–176). Edward Elgar.
+
+
+## Book
+
+Cinalli, M., Trenz, H.-J., Brändle, V. K., Eisele, O., & Lahusen, C. (2021). [*Solidarity in the media and public contention over refugees in Europe*](https://doi.org/10.4324/9780367817169). Routledge.
+
+
+## Datasets
+
+**3.** Eisele, O., Möller, P., Brugman, B. C., & Marschlich, S. (2024). [The extended JOCo corpus: 7 years of annual and CSR reports from Great Britain, Germany, and the United States](https://doi.org/10.17605/OSF.IO/235VS). OSF: Open Science Framework.
+
+**2.** Eisele, O., Heidenreich, T., & Boomgaarden, H. G. (2022). [x-pr: A dataset of 12 years of executives' press releases](https://doi.org/10.11587/MUDDDT). Vienna: Austrian Social Science Data Archive (AUSSDA).
+
+**1.** Lahusen, C., Cinalli, M., Trenz, H.-J., Eisele, O., & Brändle, V. K. (2021). [TransSOL – Transnational solidarity and collective identities in the public sphere](https://doi.org/10.7802/2356). Datasets. Mannheim: GESIS – SowiDataNet | datorium.
+
