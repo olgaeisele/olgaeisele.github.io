@@ -29,21 +29,21 @@
         <p>{{ site.description }}</p>
 
         <nav class="site-nav" aria-label="Main navigation">
-          <a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">
+          <a
+            href="{{ '/' | relative_url }}"
+            class="{% if page.url == '/' %}active{% endif %}"
+          >
             Home
           </a>
 
-          <a href="{{ '/research/' | relative_url }}" class="{% if page.url == '/research/' %}active{% endif %}">
-            Research
-          </a>
-
-          <a href="{{ '/teaching/' | relative_url }}" class="{% if page.url == '/teaching/' %}active{% endif %}">
-            Teaching
-          </a>
-
-          <a href="{{ '/publications/' | relative_url }}" class="{% if page.url == '/publications/' %}active{% endif %}">
-            Publications
-          </a>
+          {% for item in site.navigation %}
+            <a
+              href="{{ item.url | relative_url }}"
+              class="{% if page.url == item.url %}active{% endif %}"
+            >
+              {{ item.title }}
+            </a>
+          {% endfor %}
         </nav>
 
         {% if site.github.is_user_page %}
