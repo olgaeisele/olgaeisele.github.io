@@ -1,3 +1,11 @@
 title: "Olga Eisele"
 description: "Academic portfolio"
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal"
+
+navigation:
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Publications"
+    url: /publications/
