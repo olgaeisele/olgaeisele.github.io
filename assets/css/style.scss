@@ -1,0 +1,63 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Wider overall page */
+.wrapper {
+  max-width: 1200px;
+  width: 92%;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: flex-start;
+  gap: 4%;
+}
+
+/* Left sidebar: approximately one quarter */
+header {
+  width: 24%;
+  float: none;
+  position: sticky;
+  top: 2rem;
+  align-self: flex-start;
+}
+
+/* Main content: approximately three quarters */
+section {
+  width: 72%;
+  float: none;
+  padding-bottom: 3rem;
+}
+
+/* Keep the footer within the sidebar */
+footer {
+  width: auto;
+  float: none;
+  position: static;
+  margin-top: 2rem;
+}
+
+header img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 800px) {
+  .wrapper {
+    display: block;
+    width: auto;
+    margin: 0 1.5rem;
+  }
+
+  header,
+  section {
+    width: auto;
+    position: static;
+  }
+
+  header {
+    margin-bottom: 2rem;
+  }
+}
