@@ -1,3 +1,5 @@
+[Research](/research/) · [Teaching](/teaching/) · [Publications](/publications/)
+
 ---
 title: "Olga Eisele"
 ---
