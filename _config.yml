@@ -5,9 +5,11 @@ theme: jekyll-theme-minimal
 navigation:
   - title: "Research"
     url: /research/
-  - title: "Teaching"
-    url: /teaching/
   - title: "Publications"
     url: /publications/
-
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Supervision & Mentoring"
+    url: /supervision/
+    
 logo: /assets/images/olga_ascorbubbles_June26.jpg
