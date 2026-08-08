@@ -122,3 +122,27 @@ header img {
     margin-bottom: 2rem;
   }
 }
+
+/* Navigation in the left sidebar */
+.site-nav {
+  margin: 1.75rem 0;
+  padding: 0.9rem 0;
+  border-top: 1px solid #e5e5e5;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.site-nav a {
+  display: block;
+  padding: 0.35rem 0;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
+
+.site-nav a.active {
+  color: #222;
+  font-weight: 700;
+}
