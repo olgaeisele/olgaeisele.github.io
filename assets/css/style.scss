@@ -1,6 +1,9 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap");
+@import "{{ site.theme }}";
+
 /* Desktop: 1/4 sidebar and 3/4 content */
 @media screen and (min-width: 801px) {
   .wrapper {
@@ -44,85 +47,6 @@ header img {
   height: auto;
 }
 
-/* Mobile: sidebar above the page content */
-@media screen and (max-width: 800px) {
-  .wrapper {
-    display: block;
-    width: auto;
-    margin: 0 1.5rem;
-  }
-
-  header,
-  section {
-    width: auto;
-    padding-right: 0;
-    position: static;
-  }
-
-  header {
-    margin-bottom: 2rem;
-  }
-}
-
-/* Wider overall page */
-.wrapper {
-  max-width: 1200px;
-  width: 92%;
-  margin: 0 auto;
-
-  display: flex;
-  align-items: flex-start;
-  gap: 4%;
-}
-
-/* Left sidebar: approximately one quarter */
-header {
-  width: 24%;
-  float: none;
-  position: sticky;
-  top: 2rem;
-  align-self: flex-start;
-}
-
-/* Main content: approximately three quarters */
-section {
-  width: 72%;
-  float: none;
-  padding-bottom: 3rem;
-}
-
-/* Keep the footer within the sidebar */
-footer {
-  width: auto;
-  float: none;
-  position: static;
-  margin-top: 2rem;
-}
-
-header img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* Mobile layout */
-@media screen and (max-width: 800px) {
-  .wrapper {
-    display: block;
-    width: auto;
-    margin: 0 1.5rem;
-  }
-
-  header,
-  section {
-    width: auto;
-    position: static;
-  }
-
-  header {
-    margin-bottom: 2rem;
-  }
-}
-
 /* Navigation in the left sidebar */
 .site-nav {
   margin: 1.75rem 0;
@@ -147,7 +71,27 @@ header img {
   font-weight: 700;
 }
 
-/* Restore the original sans-serif font used by jekyll-theme-minimal */
+/* Aptos-like font */
 body {
-  font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-family: "Source Sans 3", "Aptos", "Segoe UI", Calibri, Arial, sans-serif !important;
+}
+
+/* Mobile: sidebar above the page content */
+@media screen and (max-width: 800px) {
+  .wrapper {
+    display: block;
+    width: auto;
+    margin: 0 1.5rem;
+  }
+
+  header,
+  section {
+    width: auto;
+    padding-right: 0;
+    position: static;
+  }
+
+  header {
+    margin-bottom: 2rem;
+  }
 }
