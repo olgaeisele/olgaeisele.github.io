@@ -8,6 +8,8 @@ permalink: /publications/
 
 ## Peer-reviewed journal articles
 
+**31.** Bukman, D., **Eisele, O.**, Boukes, M., Klinger, U. & Beckers, K. (2026) Publishers' Power: The Influence of Ownership on the Framing of Dutch Media Concentration. *Accepted for Publication in Journalism Studies*.
+
 **30.** Schwinges, A., Marschlich, S., Kroon, A. C., Cools, H., & **Eisele, O.** (2026). [Corporate digital responsibility: What drives public expectations towards companies’ role in the digital society?](https://doi.org/10.1080/1369118X.2026.2715572) *Information, Communication & Society*, 0(0), 1–19.
 
 **29.** Maxwell-Fraser, D., Baas, I. M., Burkhardt, S., **Eisele, O.**, Kroon, A. C., Bood, R. J., Geldermans, I., Ham, S., Jansen, M., Klein, R., Moed, M., Ordelman, R., Tjong Kim Sang, E., Wigham, M., Broersma, M., & Noordegraaf, J. (2026). *Twi-XL: An Infrastructure for Cross-Media Research in the Netherlands*. Accepted for publication in *Media and Communication*.
