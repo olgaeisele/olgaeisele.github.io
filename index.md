@@ -42,8 +42,8 @@ My full CV, including a complete list of publications, is available here:
 
 You can also find more information and updates here:
 
-- LinkedIn: [https://www.linkedin.com/in/olga-eisele-9b75b6266/](https://www.linkedin.com/in/olga-eisele-9b75b6266/)  
-- ResearchGate: [https://www.researchgate.net/profile/Olga-Eisele-2/](https://www.researchgate.net/profile/Olga-Eisele-2/)
+- [LinkedIn](https://www.linkedin.com/in/olga-eisele-9b75b6266/)  
+- [ResearchGate](https://www.researchgate.net/profile/Olga-Eisele-2/)
 
 ---
 
