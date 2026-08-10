@@ -4,8 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-#### My research examines political and crisis communication by organisations, with particular attention to European Union politics, the societal consequences of information and communication technologies, and computational approaches to content analysis.
-
 ## Current projects
 
 ### The (In)visible Research Agenda (2024–present)
