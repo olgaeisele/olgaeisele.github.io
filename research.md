@@ -8,6 +8,8 @@ permalink: /research/
 My whole career has been shaped by **interdisciplinarity** - my PhD was in Political Science, my postdocs in Sociology and Political Communication. In my current role, I also cover Corporate Communication. This results in a broader interest in **political communication of different types of organizations** with a specific focus on the **European Union**. Moreover, I started to use **computational methods** of data collection and text analysis which has ignited a broader interest in the challenges that digital technologies pose for society and research. In the following, I list current and completed (funded) projects.
 
 
+
+        
 ## Current projects
 
 ### The (In)visible Research Agenda (2024–present)
@@ -21,6 +23,9 @@ The research line is funded by a collaborative ASCoR grant (€25,000) and a mid
 [Twi-XL](https://twi-xl.humanities.uva.nl/) develops digital infrastructure that enables researchers in the social sciences and humanities to systematically examine current and emerging public debates on key societal issues in the Netherlands.
 
 The project brings together an archive of Dutch Twitter/X data (2011–2023), the archive of [Sound & Vision](https://www.beeldengeluid.nl/), and the archive of the [Royal Library of the Netherlands](https://www.kb.nl/). Twi-XL is part of a broader effort to build digital research infrastructure in the Netherlands, funded through the temporary Platform Digital Infrastructure. I serve as project coordinator.
+
+
+
 
 ## Previous projects
 
