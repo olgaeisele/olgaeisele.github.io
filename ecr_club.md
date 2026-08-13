@@ -15,4 +15,4 @@ The ECR Club is an online forum to give Early Career Researchers (ECRs), i.e., P
   
 The idea is to create an (online) safe space in which we can bring ECRs from different institutions together (= **networking**), help them to understand and navigate the (often unwritten) rules of academia (= **socialising**) and, of course, help them develop their research (= **feedback on research**) by receiving detailed constructive feedback from peers and senior researchers.
   
-The ECR Club was founded in 2025 by myself and Alena Kluknavská (Masaryk University, Brno). Curious about the session we already had? Then check the [ECPR page](https://ecpr.eu/events/332).  
+Curious about the session we already had? Then check the [ECPR page](https://ecpr.eu/events/332). If you have any questions, get in touch!
