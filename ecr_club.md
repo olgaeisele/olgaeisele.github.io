@@ -4,6 +4,9 @@ title: ECR Club
 permalink: /ecr_club/
 ---
 
+
+
+  
 # What is the ECR Club?
 
 As member of the [Steering Group of the Standing Group on Political Communication at ECPR](https://www.linkedin.com/company/107228470/), I have launched an ECR Club in 2025, together with my colleague Alena Kluknavská from Masaryk University in Brno (CZ).  
