@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
-## My research profile
+# My Research
 
 My whole career has been shaped by **interdisciplinarity** - my PhD was in Political Science, my postdocs in Sociology and Political Communication. In my current role, I also cover Corporate Communication. This results in a broader interest in **political communication of different types of organizations** with a specific focus on the **European Union**. Moreover, I started to use **computational methods** of data collection and text analysis which has ignited a broader interest in the challenges that digital technologies pose for society and research. In the following, I list current and completed (funded) projects.
 
