@@ -12,7 +12,7 @@ permalink: /publications/
 
 **30.** Schwinges, A., Marschlich, S., Kroon, A. C., Cools, H., & **Eisele, O.** (2026). [Corporate digital responsibility: What drives public expectations towards companies’ role in the digital society?](https://doi.org/10.1080/1369118X.2026.2715572) *Information, Communication & Society*, 0(0), 1–19.
 
-**29.** Maxwell-Fraser, D., Baas, I. M., Burkhardt, S., **Eisele, O.**, Kroon, A. C., Bood, R. J., Geldermans, I., Ham, S., Jansen, M., Klein, R., Moed, M., Ordelman, R., Tjong Kim Sang, E., Wigham, M., Broersma, M., & Noordegraaf, J. (2026). [Twi-XL: An Infrastructure for Cross-Media Research in the Netherlands](https://doi.org/10.17645/mac.12018). Accepted for publication in *Media and Communication*.
+**29.** Maxwell-Fraser, D., Baas, I. M., Burkhardt, S., **Eisele, O.**, Kroon, A. C., Bood, R. J., Geldermans, I., Ham, S., Jansen, M., Klein, R., Moed, M., Ordelman, R., Tjong Kim Sang, E., Wigham, M., Broersma, M., & Noordegraaf, J. (2026). [Twi-XL: An Infrastructure for Cross-Media Research in the Netherlands](https://doi.org/10.17645/mac.12018). *Media and Communication, 14*.
 
 **28.** Kluknavská, A., **Eisele, O.**, & Tolochko, P. (2026). [“Liar, Liar, Pants on Fire!”: An automated analysis of polarities of mediated truth contestation in Austrian and Czech news media.](https://doi.org/10.1177/19401612261440998) *The International Journal of Press/Politics*.
 
